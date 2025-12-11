@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "DNA",
+  "base_artist": "Tele",
+  "createdAt": "2025-12-11T05:02:09.032649Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Lecithin's Tale of a DNA Experiment That Went Horribly Awry",
+      "artist": "of Montreal",
+      "has_synced": false,
+      "path": "select/01_Lecithin's_Tale_of_a_DNA_Experiment_That_Went_Horribly_Awry_of_Montreal.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "DNA RAIN",
+      "artist": "Bladee",
+      "has_synced": true,
+      "path": "select/02_DNA_RAIN_Bladee.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Run DNA",
+      "artist": "The Avalanches",
+      "has_synced": false,
+      "path": "select/03_Run_DNA_The_Avalanches.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Smart Patrol / Mr. DNA",
+      "artist": "Devo",
+      "has_synced": true,
+      "path": "select/04_Smart_Patrol___Mr._DNA_Devo.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Smart Patrol\u0000Mr DNA",
+      "artist": "Devo",
+      "has_synced": true,
+      "path": "select/05_Smart_Patrol\u0000Mr_DNA_Devo.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Smart Patrol/Mr. DNA (Live / San Francisco 1977)",
+      "artist": "Devo",
+      "has_synced": false,
+      "path": "select/06_Smart_Patrol_Mr._DNA_(Live___San_Francisco_1977)_Devo.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Smart Patrol\u0000Mr. Dna (In Concert Radio Broadcast San Francisco 1977)",
+      "artist": "Devo",
+      "has_synced": false,
+      "path": "select/07_Smart_Patrol\u0000Mr._Dna_(In_Concert_Radio_Broadcast_San_Francisco_1977)_Devo.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Dna",
+      "artist": "Danny Brown",
+      "has_synced": true,
+      "path": "select/08_Dna_Danny_Brown.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Smart Patrol\u0000Mr. DNA",
+      "artist": "Devo",
+      "has_synced": true,
+      "path": "select/09_Smart_Patrol\u0000Mr._DNA_Devo.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "DNA",
+      "artist": "Earl Sweatshirt feat. Na'kel",
+      "has_synced": true,
+      "path": "select/10_DNA_Earl_Sweatshirt_feat._Na'kel.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "DNA (feat. Na'kel)",
+      "artist": "Earl Sweatshirt",
+      "has_synced": true,
+      "path": "select/11_DNA_(feat._Na'kel)_Earl_Sweatshirt.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Feel Every Beat (DNA remix)",
+      "artist": "Electronic",
+      "has_synced": true,
+      "path": "select/12_Feel_Every_Beat_(DNA_remix)_Electronic.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Get the Message (DNA 12 Inch Sin mix)",
+      "artist": "Electronic",
+      "has_synced": false,
+      "path": "select/13_Get_the_Message_(DNA_12_Inch_Sin_mix)_Electronic.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Get the Message (DNA Groove mix)",
+      "artist": "Electronic",
+      "has_synced": true,
+      "path": "select/14_Get_the_Message_(DNA_Groove_mix)_Electronic.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Get the Message (DNA Sin mix)",
+      "artist": "Electronic",
+      "has_synced": true,
+      "path": "select/15_Get_the_Message_(DNA_Sin_mix)_Electronic.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DNA",
+      "artist": "Tele",
+      "has_synced": false,
+      "path": "select/pl_01_DNA_Tele.txt"
+    }
+  ]
+}
